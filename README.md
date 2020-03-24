@@ -16,6 +16,12 @@ Note
 -----
 Ignore the `"Rtools required to build packages..."` warning, if it occurs. It occurs randomly on various machines due to me including binary release within same github repository.
 
+If you are on Debian/Ubuntu you can get VLC by running the following in a terminal:     
+
+`sudo apt-get install vlc` 
+
+since there are no paplay utility from the Pulse Audio system, or the aplay utility from the ALSA system in both Debian/Ubuntu.
+
 OS Support
 ----------
 Windows and all of the Unix! *(Windows OS 8 & up, Mac OS, Linuxs)*
