@@ -24,7 +24,7 @@ After that, whenever you make an error a nice, surreal, natural sound will come 
 Example
 -------
 1) `farthur::fart()` or `farthur::fart(takes= NA)`
-2) `options(error = function() {fart(takes= NA)})` or `options(error = function() {fart})`
+2) `options(error = function() {fart(takes= NA)})` or `options(error = function() {fart()})`
 
 Author
 -------
