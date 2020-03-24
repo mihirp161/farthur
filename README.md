@@ -14,7 +14,8 @@ Windows and all of the Unix! *(Windows OS 8 & up, Mac OS, Linuxs)*
 
 Project Description
 --------------------
-Want to humiliate yourself (possibly around your colleagues) whenever you make an error during R compilation? Then look no further. Download this package, and put this in your option space like so:    `options(error = function() {fart(takes= NA)})`    
+Want to humiliate yourself (possibly around your colleagues) whenever you make an error during R compilation? Then look no further. Download this package, and put this in your option space like so:    
+`options(error = function() {fart(takes= NA)})`     
 After that, whenever you make an error a nice, surreal, natural sound will come out of your IDE :) You're welcome!
 
 *Documentation and more details are in .tar files*          
