@@ -1,6 +1,6 @@
 Project
 -------
-farthur (fart + a generic name, *Aurthur* = farthur)
+farthur (fart + a generic name, *Arthur* = farthur)
 
 Install
 -------
