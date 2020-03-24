@@ -21,7 +21,7 @@
 #' @export
 fart <- function(takes= NA){
 
-  natural_noise <- "KingFarthur.wav"
+  natural_noise <- sample(c("QueenFarthur.wav","KingFarthur.wav" ,"HeiressFarthur.wav","HeirFarthur.wav"), 1)
 
   wav_location <- system.file(paste("sound/", natural_noise, sep=""), package= "farthur")
 
