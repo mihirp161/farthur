@@ -24,7 +24,7 @@ since there are no paplay utility from the Pulse Audio system, or the aplay util
 
 OS Support
 ----------
-Windows and all of the Unix! *(Windows OS 8 & up, Mac OS, Linuxs)*
+Windows and all of the Unix! *(Windows OS 8 & up, Mac OS, various Linux OS)*
 
 Project Description
 --------------------
