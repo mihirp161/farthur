@@ -10,6 +10,10 @@ library(farthur)
 
 #then enter 1 and choose to "1. ALL"
 `````
+*Not worthy of CRAN, believe me.*
+
+Note
+-----
 Ignore the `"Rtools required to build packages..."` warning, if it occurs. It occurs randomly on various machines due to me including binary release within same github repository.
 
 OS Support
