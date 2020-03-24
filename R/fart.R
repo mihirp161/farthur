@@ -23,7 +23,7 @@ fart <- function(takes= NA){
 
   natural_noise <- sample(c("QueenFarthur.wav","KingFarthur.wav" ,"HeiressFarthur.wav","HeirFarthur.wav"), 1)
 
-  wav_location <- system.file(paste("sound/", natural_noise, sep=""), package= "farthur")
+  wav_location <- system.file(paste("farthurfamily/", natural_noise, sep=""), package= "farthur")
 
   tryCatch(make_natural_noise(wav_string= wav_location), error = function(ex) {
     warning("fart(takes= NA) failed to shame you due to a following error:\n", ex)
