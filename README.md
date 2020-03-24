@@ -33,7 +33,7 @@ Want to humiliate yourself (possibly around your colleagues) whenever you make a
 After that, whenever you make an error a nice, surreal, natural sound will come out of your IDE :) You're welcome!
 
 *Documentation and more details are in .tar files*          
-*A helper function to make this package compatible across various OS was taken from [rasmusab](https://github.com/rasmusab)
+*A helper function to make this package compatible across various OS was taken from [rasmusab](https://github.com/rasmusab)*
 
 Example
 -------
