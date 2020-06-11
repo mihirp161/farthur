@@ -59,4 +59,4 @@ audio, stringr
 
 License
 --------
-MIT
+CC0
