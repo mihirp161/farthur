@@ -1,4 +1,4 @@
-Project
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)Project
 -------
 farthur (fart + a generic name, *Arthur* = farthur)
 
