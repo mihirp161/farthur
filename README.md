@@ -5,7 +5,7 @@ farthur (fart + a generic name, *Arthur* = farthur)
 Install
 -------
 `````r
-devtools::install_github("opendatasurgeon/farthur")
+devtools::install_github("mihirp161/farthur")
 library(farthur) 
 
 #then enter 1 to choose "1. ALL"
@@ -47,7 +47,7 @@ Mihir Patel
 Status
 ------
 Working: version 0.0.7      
-Next: More farting noises in the farty kingdon family.    
+Next: More farting noises in the farty kingdom family.    
 
 Language
 ---------
